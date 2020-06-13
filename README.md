@@ -7,7 +7,13 @@ This model has a accuracy more than 82% on test and validation set.
 ## about the dataset
 This dataset is downloaded from kaggle weblsite.
 The data set can be downloaded from the zip file in this repository.
+This data set contains 10 classes from 0 to 10 hand signs
 This data set contain total of 2062 examples (including training ,validation and testing sets).
+
+## preview of this data set
+#### 0
+![0](https://user-images.githubusercontent.com/61901749/84565122-9d9fb800-ad84-11ea-9cae-7f3428619bcc.JPG)
+
 
 ## plots
 ### loss function vs the number of epochs
@@ -17,3 +23,6 @@ This data set contain total of 2062 examples (including training ,validation and
 ### accuracy vs the number of epochs
 
 <img src="images/accuracy_vs_epochs.png" width=400>
+
+
+
